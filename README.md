@@ -1,2 +1,2 @@
 # Minesweeper-Game
-Implementation of Minesweeper Game using MATLA
+Implementation of Minesweeper Game using MATLAB
